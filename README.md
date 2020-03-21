@@ -6,8 +6,7 @@
 ## Pointers and Dynamic Memory Allocation
 • Java : Introduction and Basic I/O, Variables , Operators, Loops, Arrays, String , Immutable
 ## Strings, ArrayList , BigInteger
-Note: Due to time constraints, you may choose any one programming language of your choice for
-the course.
+   Note: Due to time constraints, you may choose any one programming language of your choice for the course.
 ## Object Oriented Programming:
 • Classes and Objects\
 • Inheritance and Polymorphism : Overloading and Overriding\
@@ -25,7 +24,7 @@ the course.
 • Sorting: QuickSort and its variation, Mergesort, Counting sort, Insertion Sort, Heap Sort, Comparator\
 • Hashing: Different Types of Hashing Techniques, Collision resolution Techniques, Hashing Questions\
 • Strings: Basic Operations, Naive Pattern Search, Other searching algorithms.\
-• Linked Lists: Singly Linked List, Doubly Linked Lists, Circular Linked List, Skip List, Doubly Circular• Stacks: Stack Operations, Implementation, Different Questions\
+• Linked Lists: Singly Linked List, Doubly Linked Lists, Circular Linked List, Skip List, Doubly Circular• Stacks: Stack                           ->Operations, Implementation, Different Questions\
 • Queues: Queue Operations, Implementation, Different Questions, Deque Operations, Implementation, Different Questions.\
 • Tree: Binary Tree, Tree Traversal\
 • Binary Search Tree: Search, Insert, Delete and other important questions, AVL (Basic Introduction)\
